@@ -2,7 +2,7 @@
   "name": "tesseract-swap-bot",
   "version": "1.0.0",
   "description": "Bot swap otomatis tesseract kite",
-  "main": "index.js",
+  "main": "run.js",
   "scripts": {
     "start": "node run.js"
   },
